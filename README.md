@@ -1,4 +1,4 @@
-![Banner for OpenLLM](/.github/assets/main-banner.png)
+
 
 <!-- hatch-fancy-pypi-readme intro start -->
 
@@ -21,7 +21,7 @@
 
 ## 📖 Introduction
 
-OpenLLM helps developers **run any open-source LLMs**, such as Llama 2 and Mistral, as **OpenAI-compatible API endpoints**, locally and in the cloud, optimized for serving throughput and production deployment.
+Luna helps developers **run any open-source LLMs**, such as Llama 2 and Mistral, as **OpenAI-compatible API endpoints**, locally and in the cloud, optimized for serving throughput and production deployment.
 
 
 - 🚂 Support a wide range of open-source LLMs including LLMs fine-tuned with your own data
