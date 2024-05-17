@@ -3,7 +3,7 @@
 <!-- hatch-fancy-pypi-readme intro start -->
 
 <div align="center">
-    <h1 align="center">🦾 OpenLLM: Self-Hosting LLMs Made Easy</h1>
+    <h1 align="center"> LUNA : path to all AI models </h1>
     <a href="https://pypi.org/project/openllm">
         <img src="https://img.shields.io/pypi/v/openllm.svg?logo=pypi&label=PyPI&logoColor=gold" alt="pypi_status" />
     </a><a href="https://test.pypi.org/project/openllm/">
